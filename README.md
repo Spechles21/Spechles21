@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>👩🏻‍💻Web Developer • Freelancer<br>👇 Need a website?<br>I’m a web developer. I spend my whole day,  experimenting with HTML, CSS, Java, etc.
+<br><br>👩🏻‍💻Web Developer <br>👇 Need a website?<br>I’m a web developer. I spend my whole day,  experimenting with HTML, CSS, Java, etc.
 
 
 ## 🌐 Socials:
